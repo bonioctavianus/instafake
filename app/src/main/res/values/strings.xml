@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Instafake</string>
+
+    <string name="dialog_request_permission_title">Yo, we need some permission here</string>
+    <string name="dialog_request_permission_description">C\'mon be cool.</string>
+    <string name="dialog_request_permission_positive_action">Open Settings</string>
+
+    <string name="action_menu_logout">Logout</string>
+    <string name="action_menu_send">Send</string>
+
+    <string name="sign_in_email">Email</string>
+    <string name="sign_in_password">Password</string>
+    <string name="sign_in_login">Login</string>
+
+    <string name="home_select_picture_source_dialog_title">Take picture from</string>
+    <string name="home_select_picture_source_dialog_camera_option">Camera</string>
+    <string name="home_select_picture_source_dialog_gallery_option">Gallery</string>
+
+    <string name="create_post_message_hint">Say something about this picture</string>
+</resources>
